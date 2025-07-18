@@ -3,108 +3,72 @@
     "nome": "Stadio Gran Sasso d'Italia - Italo Acconcia",
     "citta": "L'Aquila",
     "regione": "Abruzzo",
-    "coordinate": {
-      "latitudine": 42.35618211460768,
-      "longitudine": 13.412062614736191
-    },
-    "dimensioni": {
-      "lunghezza": 104,
-      "larghezza": 66
-    },
+    "latitudine": 42.35618211460768,
+    "longitudine": 13.412062614736191,
+    "lunghezza": 104,
+    "larghezza": 66,
     "tipo_superficie": "erba sintetica",
     "capacita_spettatori": 6763,
-    "indirizzo": {
-      "via": "Via Montorio al Vomano",
-    }
+    "indirizzo": "Via Montorio al Vomano",
   },
   {
     "nome": "Stadio Tommaso Fattori",
     "citta": "L'Aquila",
     "regione": "Abruzzo",
-    "coordinate": {
-      "latitudine": 42.36534963388385,
-      "longitudine": 13.403349874633774
-    },
-    "dimensioni": {
-      "lunghezza": 105,
-      "larghezza": 68
-    },
+    "latitudine": 42.36534963388385,
+    "longitudine": 13.403349874633774,
+    "lunghezza": 105,
+    "larghezza": 68,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 9200,
-    "indirizzo": {
-      "via": "Viale Gran Sasso D'Italia",
-    }
+    "indirizzo": "Viale Gran Sasso D'Italia",
   },
   {
     "nome": "Stadio Adriatico – Giovanni Cornacchia",
     "citta": "Pescara",
     "regione": "Abruzzo",
-    "coordinate": {
-      "latitudine": 42.4551,
-      "longitudine": 14.2298
-    },
-    "dimensioni": {
-      "lunghezza": 105,
-      "larghezza": 68
-    },
+    "latitudine": 42.4551,
+    "longitudine": 14.2298,
+    "lunghezza": 105,
+    "larghezza": 68,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 20476,
-    "indirizzo": {
-      "via": "Viale Vittorio Pepe",
-    }
+    "indirizzo": "Viale Vittorio Pepe",
   },
   {
     "nome": "Stadio Mimmo Pavone – Alessandro Mariani",
     "citta": "Pineto",
     "regione": "Abruzzo",
-    "coordinate": {
-      "latitudine": 42.61036450971515,
-      "longitudine": 14.05356588333611
-    },
-    "dimensioni": {
-      "lunghezza": 100,
-      "larghezza": 60
-    },
+    "latitudine": 42.61036450971515,
+    "longitudine": 14.05356588333611,
+    "lunghezza": 100,
+    "larghezza": 60,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 1500,
-    "indirizzo": {
-      "via": "Via Coste del Mulino",
-    }
+    "indirizzo": "Via Coste del Mulino",
   },
   {
     "nome": "Stadio Fabio Piccone",
     "citta": "Celano",
     "regione": "Abruzzo",
-    "coordinate": {
-      "latitudine": 42.07261413898234,
-      "longitudine": 13.535740269817055
-    },
-    "dimensioni": {
-      "lunghezza": 100,
-      "larghezza": 60
-    },
+    "latitudine": 42.07261413898234,
+    "longitudine": 13.535740269817055,
+    "lunghezza": 100,
+    "larghezza": 60,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 3200,
-    "indirizzo": {
-      "via": "Via La Torre",
-    }
+    "indirizzo": "Via La Torre",
   },
   {
     "nome": "Stadio Guido Angelini",
     "citta": "Chieti",
     "regione": "Abruzzo",
-    "coordinate": {
-      "latitudine": 42.346945442610284,
-      "longitudine": 14.13374801890742
-    },
-    "dimensioni": {
-      "lunghezza": 105,
-      "larghezza": 65
-    },
+    "latitudine": 42.346945442610284,
+    "longitudine": 14.13374801890742,
+    "lunghezza": 105,
+    "larghezza": 65,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 12.750,
-    "indirizzo": {
-      "via": " Viale Abruzzo",
-    }
+    "indirizzo": " Viale Abruzzo",
   },
 ]
