@@ -9,7 +9,7 @@
     "larghezza": 66,
     "tipo_superficie": "erba sintetica",
     "capacita_spettatori": 6763,
-    "indirizzo": "Via Montorio al Vomano",
+    "indirizzo": "Via Montorio al Vomano"
   },
   {
     "nome": "Stadio Tommaso Fattori",
@@ -21,7 +21,7 @@
     "larghezza": 68,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 9200,
-    "indirizzo": "Viale Gran Sasso D'Italia",
+    "indirizzo": "Viale Gran Sasso D'Italia"
   },
   {
     "nome": "Stadio Adriatico – Giovanni Cornacchia",
@@ -33,7 +33,7 @@
     "larghezza": 68,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 20476,
-    "indirizzo": "Viale Vittorio Pepe",
+    "indirizzo": "Viale Vittorio Pepe"
   },
   {
     "nome": "Stadio Mimmo Pavone – Alessandro Mariani",
@@ -45,7 +45,7 @@
     "larghezza": 60,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 1500,
-    "indirizzo": "Via Coste del Mulino",
+    "indirizzo": "Via Coste del Mulino"
   },
   {
     "nome": "Stadio Fabio Piccone",
@@ -57,7 +57,7 @@
     "larghezza": 60,
     "tipo_superficie": "erba naturale",
     "capacita_spettatori": 3200,
-    "indirizzo": "Via La Torre",
+    "indirizzo": "Via La Torre"
   },
   {
     "nome": "Stadio Guido Angelini",
@@ -68,7 +68,7 @@
     "lunghezza": 105,
     "larghezza": 65,
     "tipo_superficie": "erba naturale",
-    "capacita_spettatori": 12.750,
-    "indirizzo": " Viale Abruzzo",
+    "capacita_spettatori": 12750,
+    "indirizzo": " Viale Abruzzo"
   },
 ]
