@@ -3,8 +3,8 @@
 "nome":"Stadio Gran Sasso d'Italia - Italo Acconcia",
 "citta":"L'Aquila",
 "regione":"Abruzzo",
-"latitudine":42.35618211460768,
-"longitudine":13.412062614736191,
+"latitudine":42.351194989436316,
+"longitudine":13.410410369831238,
 "lunghezza":104,
 "larghezza":66,
 "tipo_superficie":"erba sintetica",
@@ -15,8 +15,8 @@
 "nome":"Stadio Tommaso Fattori",
 "citta":"L'Aquila",
 "regione":"Abruzzo",
-"latitudine":42.36534963388385,
-"longitudine":13.403349874633774,
+"latitudine":42.35665075148861,
+"longitudine":13.404054600781153,
 "lunghezza":105,
 "larghezza":68,
 "tipo_superficie":"erba naturale",
@@ -82,5 +82,17 @@
 "tipo_superficie":"erba sintetica",
 "capacita_spettatori":8840,
 "indirizzo":"Località Piano d'Accio"
+},
+{
+"nome":"Stadio Riviera delle Palme",
+"citta":"San Benedetto del Tronto",
+"regione":"Marche",
+"latitudine":42.93391956680795,
+"longitudine":13.89109050048249,
+"lunghezza":105,
+"larghezza":68,
+"tipo_superficie":"erba sintetica",
+"capacita_spettatori":13708,
+"indirizzo":"Viale dello Sport"
 }
 ]
