@@ -69,6 +69,18 @@
 "larghezza":65,
 "tipo_superficie":"erba naturale",
 "capacita_spettatori":12750,
-"indirizzo":" Viale Abruzzo"
+"indirizzo":"Viale Abruzzo"
+},
+{
+"nome":"Stadio Gaetano Bonolis",
+"citta":"Teramo",
+"regione":"Abruzzo",
+"latitudine":42.68289400075734,
+"longitudine":13.762321969310987,
+"lunghezza":105,
+"larghezza":68,
+"tipo_superficie":"erba sintetica",
+"capacita_spettatori":8840,
+"indirizzo":"Località Piano d'Accio"
 }
 ]
